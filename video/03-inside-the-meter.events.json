@@ -1,0 +1,76 @@
+{
+ "seconds": 35.99892289360337,
+ "fps": 60,
+ "events": [
+  {
+   "t": 0.9,
+   "kind": "press",
+   "step": 0
+  },
+  {
+   "t": 1.4,
+   "kind": "word",
+   "word": "squeak"
+  },
+  {
+   "t": 4.866666666666666,
+   "kind": "press",
+   "step": 1
+  },
+  {
+   "t": 4.883333333333334,
+   "kind": "word",
+   "word": "ping!"
+  },
+  {
+   "t": 10.833333333333334,
+   "kind": "press",
+   "step": 2
+  },
+  {
+   "t": 10.85,
+   "kind": "word",
+   "word": "ping!"
+  },
+  {
+   "t": 16.8,
+   "kind": "press",
+   "step": 3
+  },
+  {
+   "t": 17.233333333333334,
+   "kind": "word",
+   "word": "tick tick"
+  },
+  {
+   "t": 21.7,
+   "kind": "press",
+   "step": 4
+  },
+  {
+   "t": 22.65,
+   "kind": "word",
+   "word": "bleep"
+  },
+  {
+   "t": 26.1,
+   "kind": "press",
+   "step": 5
+  },
+  {
+   "t": 26.5,
+   "kind": "word",
+   "word": "glug glug"
+  },
+  {
+   "t": 30.6,
+   "kind": "press",
+   "step": 6
+  },
+  {
+   "t": 31.766666666666666,
+   "kind": "word",
+   "word": "click"
+  }
+ ]
+}

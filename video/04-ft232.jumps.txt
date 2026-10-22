@@ -1,0 +1,2 @@
+359 frames at 0.1 s, 320x236 card samples; median change 89 px
+no jumps

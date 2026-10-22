@@ -1,0 +1,76 @@
+{
+ "seconds": 35.8902,
+ "fps": 60,
+ "events": [
+  {
+   "t": 0.9,
+   "kind": "press",
+   "step": 0
+  },
+  {
+   "t": 1.2166666666666666,
+   "kind": "word",
+   "word": "whoosh"
+  },
+  {
+   "t": 4.633333333333334,
+   "kind": "press",
+   "step": 1
+  },
+  {
+   "t": 4.883333333333334,
+   "kind": "word",
+   "word": "flip flip"
+  },
+  {
+   "t": 8.333333333333334,
+   "kind": "press",
+   "step": 2
+  },
+  {
+   "t": 11.266666666666667,
+   "kind": "word",
+   "word": "tick"
+  },
+  {
+   "t": 12.366666666666667,
+   "kind": "press",
+   "step": 3
+  },
+  {
+   "t": 12.8,
+   "kind": "word",
+   "word": "blink blink"
+  },
+  {
+   "t": 21.233333333333334,
+   "kind": "press",
+   "step": 4
+  },
+  {
+   "t": 21.5,
+   "kind": "word",
+   "word": "blink"
+  },
+  {
+   "t": 26.933333333333334,
+   "kind": "press",
+   "step": 5
+  },
+  {
+   "t": 28.8,
+   "kind": "word",
+   "word": "ding!"
+  },
+  {
+   "t": 30.833333333333332,
+   "kind": "press",
+   "step": 6
+  },
+  {
+   "t": 32.05,
+   "kind": "word",
+   "word": "whoosh"
+  }
+ ]
+}

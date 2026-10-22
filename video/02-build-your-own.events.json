@@ -1,0 +1,107 @@
+{
+ "seconds": 36,
+ "fps": 60,
+ "card": [
+  968,
+  566,
+  402,
+  174
+ ],
+ "events": [
+  {
+   "t": 0.9,
+   "kind": "press",
+   "step": 0
+  },
+  {
+   "t": 1.0833333333333333,
+   "kind": "word",
+   "word": "bzzz…"
+  },
+  {
+   "t": 5,
+   "kind": "press",
+   "step": 1
+  },
+  {
+   "t": 6.366666666666666,
+   "kind": "word",
+   "word": "push, push"
+  },
+  {
+   "t": 8.7,
+   "kind": "press",
+   "step": 2
+  },
+  {
+   "t": 10.416666666666666,
+   "kind": "word",
+   "word": "tsss"
+  },
+  {
+   "t": 12.8,
+   "kind": "press",
+   "step": 3
+  },
+  {
+   "t": 13.833333333333334,
+   "kind": "word",
+   "word": "tsss"
+  },
+  {
+   "t": 15.266666666666667,
+   "kind": "word",
+   "word": "shrink!"
+  },
+  {
+   "t": 16.9,
+   "kind": "press",
+   "step": 4
+  },
+  {
+   "t": 18.533333333333335,
+   "kind": "word",
+   "word": "clack!"
+  },
+  {
+   "t": 20.2,
+   "kind": "press",
+   "step": 5
+  },
+  {
+   "t": 21.833333333333332,
+   "kind": "word",
+   "word": "snap"
+  },
+  {
+   "t": 23.5,
+   "kind": "press",
+   "step": 6
+  },
+  {
+   "t": 23.9,
+   "kind": "word",
+   "word": "click"
+  },
+  {
+   "t": 25.233333333333334,
+   "kind": "word",
+   "word": "blink blink"
+  },
+  {
+   "t": 28,
+   "kind": "press",
+   "step": 7
+  },
+  {
+   "t": 28.666666666666668,
+   "kind": "word",
+   "word": "clack!"
+  },
+  {
+   "t": 33.78333333333333,
+   "kind": "word",
+   "word": "beep!"
+  }
+ ]
+}

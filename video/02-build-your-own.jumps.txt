@@ -1,0 +1,5 @@
+360 frames at 0.1 s, 320x187 card samples; median change 71 px
+jump at 11.1 s: 1303 px vs ~291
+jump at 13.9 s: 777 px vs ~143
+jump at 24.7 s: 3305 px vs ~1080
+jump at 28.0 s: 2480 px vs ~530

@@ -1,0 +1,2 @@
+361 frames at 0.1 s, 320x237 card samples; median change 0 px
+jump at 5.1 s: 1141 px vs ~362
