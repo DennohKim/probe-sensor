@@ -1,5 +1,7 @@
 # Probe sensor: machines you can run
 
+**Live:** https://probe-sensor.vercel.app
+
 Interactive figures that show how an IEC 62056-21 optical probe (like the MY015-D) reads a smart water meter, and how to build one. Each figure is one standalone HTML page in the children's-book style from `prompts.md`.
 
 | Figure | Page |
@@ -38,7 +40,11 @@ python3 -m http.server -d site/dist 8080  # then open http://localhost:8080
 SITE_URL=https://your.domain node site/build.mjs   # absolute preview-image URLs, needed before sharing links on X
 ```
 
-Deploying (e.g. `vercel deploy site/dist`) is a manual step.
+Deploy (`vercel.json` serves `site/dist` with no build step):
+
+```sh
+SITE_URL=https://probe-sensor.vercel.app node site/build.mjs && vercel deploy --prod
+```
 
 ## Layout
 
